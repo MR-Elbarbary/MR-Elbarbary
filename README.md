@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning cs50x
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me discord elbarbary#4004
+
 -CS (AI) engineer at Alexandria university
 
 <!---
