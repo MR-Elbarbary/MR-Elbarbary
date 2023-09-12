@@ -5,6 +5,7 @@
 - 📫 How to reach me discord elbarbary#4004
 
 -CS (AI) engineer at Alexandria university
+- discord elbarbary#4004
 
 <!---
 MR-Elbarbary/MR-Elbarbary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
