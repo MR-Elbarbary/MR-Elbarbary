@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MR-Elbarbary
 - 👀 I’m interested in self improvement
 - 🌱 I’m currently learning cs50x
-- 💞️ I’m looking to collaborate on studying
+- 💞️ I’m looking to collaborate on cs projects
 - 📫 How to reach me discord elbarbary
 
 - CS (AI and data science) at Alexandria university
