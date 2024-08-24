@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MR-Elbarbary
 - 👀 I’m interested in self improvement
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development (TOP)
 - 💞️ I’m looking to collaborate on cs projects
 - 📫 How to reach me discord elbarbary
 
