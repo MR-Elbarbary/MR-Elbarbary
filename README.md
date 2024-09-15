@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on web development <br>👯 I’m looking to collaborate on web projects<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about computer science topics<br>⚡ Fun fact I used to be a football player<br>
 I use VIM btw <br>
+I use arch btw <br>
 My Discord: elbarbary
 
 
